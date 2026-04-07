@@ -29,5 +29,11 @@ The cleaned single docx file or the whole output folder (including subfolder str
 This tool is 100% free. If it saved you some headache (or some hard drive space), consider donating any amount via the Revolut link:
 https://revolut.me/richarb0x8
 
+<img width="500" height="500" alt="Revolut QR docx_cleanup" src="https://github.com/user-attachments/assets/41c330de-717e-4134-9ccf-52126e24e305" />
+
+or by PayPal:
+
+<img width="500" height="500" alt="PayPal QR docx_cleanup" src="https://github.com/user-attachments/assets/441bd22c-4d9e-4d0c-b203-c68c6b5230a5" />
+
 ## 📜 License
-This software is provided "as-is" under a simple Freeware License. See the [LICENSE.txt] file for details.
+This software is provided "as-is" under a simple Freeware License. See the LICENSE txt file for details.
